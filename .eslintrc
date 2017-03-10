@@ -1,0 +1,15 @@
+{
+    "parser": "babel-eslint",
+    "globals": {
+        "fetch": true,
+        "Headers": true,
+        "Response": true,
+        "Action": true,
+        "Status": true,
+        "Base64": true
+    },
+    "extends": [
+        "standard",
+        "standard-react"
+    ]
+}

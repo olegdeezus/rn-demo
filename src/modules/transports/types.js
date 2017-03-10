@@ -1,0 +1,5 @@
+export const SET_POSITION = 'transport/SET_POSITION'
+export const ENTER_REGION = 'transport/ENTER_REGION'
+export const LEAVE_REGION = 'transport/LEAVE_REGION'
+export const STOP_REACHED = 'transport/STOP_REACHED'
+export const SET_NEXT_STOP = 'transport/SET_NEXT_STOP'
